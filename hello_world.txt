@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-let see this works!!
-=======
-Hello world
-Greetings to all.
->>>>>>> 9682aaeeae5236cc4773873a92db10b8e4f5a16c
+If you think it you can do it
